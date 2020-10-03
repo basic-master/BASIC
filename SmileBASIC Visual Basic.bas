@@ -1,4 +1,5 @@
-'Build apps easy; by E
+'Build apps easy; by Emile
+
 
 'UPDATE TODO
 '-----------
